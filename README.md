@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ilamim
 - 🌴 Made in Rio de Janeiro
 - 🥐 Based in Paris
+- 💻 Junior dev and former senior translator
 - 🌐 I speak EN / FR / ES / PT-BR
 <!---
 ilamim/ilamim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
