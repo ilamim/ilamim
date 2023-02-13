@@ -1,6 +1,6 @@
 👋 Hi, I’m @ilamim <br>
-🌴 Made in Rio de Janeiro <br>
-🥐 Based in Paris <br>
+🌴 Made in Rio de Janeiro, Brazil <br>
+🥐 Based in Toulouse, France <br>
 💻 Junior backend developer and senior translator <br>
 📚 Languague nerd <br>
 🌐 I speak EN / FR / ES / PT-BR
