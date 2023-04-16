@@ -1,4 +1,4 @@
-👋 Hi, I’m @ilamim <br>
+👋 Hi, I’m Isabel <br>
 🌴 Made in Brazil <br>
 🥐 Based in France <br>
 💻 Junior backend developer and senior translator <br>
